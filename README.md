@@ -6,6 +6,7 @@
 
 ### From Docker Hub
 [Link](https://hub.docker.com/repository/docker/salildock/fmripipe)
+
     `sudo docker pull salildock/fmripipe`
  ### Build Yourself
 **Warning**:  It takes some time to build it yourself. Patience is a virtue.
